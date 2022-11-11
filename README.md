@@ -20,7 +20,7 @@
  ```python
  from CryptoPriceBIN import CryptoPriceBIN
 
- print(CryptoPriceBIN.CryptoPriceBIN.CryptoPrice("ethereum")
+ print(CryptoPriceBIN.CryptoPriceBIN.CryptoPrice("ethereum"))
 
  ```
 
