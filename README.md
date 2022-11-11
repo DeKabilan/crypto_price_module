@@ -8,8 +8,8 @@
  
  ## __Requirements__
  
- BeautifulSoup4 'pip install bs4'
- Requests 'pip install requests'
+ BeautifulSoup4 `pip install bs4`
+ Requests `pip install requests`
 
 ## __Installation__
 
