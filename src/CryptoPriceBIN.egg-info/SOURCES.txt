@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/CryptoPriceBIN/CryptoPriceBIN.py
+src/CryptoPriceBIN/__init__.py
+src/CryptoPriceBIN/scrapper.py
+src/CryptoPriceBIN.egg-info/PKG-INFO
+src/CryptoPriceBIN.egg-info/SOURCES.txt
+src/CryptoPriceBIN.egg-info/dependency_links.txt
+src/CryptoPriceBIN.egg-info/top_level.txt
